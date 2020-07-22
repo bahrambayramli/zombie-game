@@ -1,0 +1,10 @@
+c:\users\lenovo\source\repos\TIR\TIR\bin\Debug\TIR.exe
+c:\users\lenovo\source\repos\TIR\TIR\bin\Debug\TIR.pdb
+c:\users\lenovo\source\repos\TIR\TIR\obj\Debug\TIR.csprojResolveAssemblyReference.cache
+c:\users\lenovo\source\repos\TIR\TIR\obj\Debug\TIR.Form1.resources
+c:\users\lenovo\source\repos\TIR\TIR\obj\Debug\TIR.Properties.Resources.resources
+c:\users\lenovo\source\repos\TIR\TIR\obj\Debug\TIR.csproj.GenerateResource.Cache
+c:\users\lenovo\source\repos\TIR\TIR\obj\Debug\TIR.csproj.CoreCompileInputs.cache
+c:\users\lenovo\source\repos\TIR\TIR\obj\Debug\TIR.exe
+c:\users\lenovo\source\repos\TIR\TIR\obj\Debug\TIR.pdb
+C:\Users\Lenovo\source\repos\TIR\TIR\obj\Debug\TIR.Form2.resources
